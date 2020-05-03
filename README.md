@@ -1,4 +1,2 @@
 # hello-world
-hello-world tets repository
-
-тест
+hello-world test repository
